@@ -1,0 +1,9 @@
+iframe.pod-bean {
+	width: 100%;
+	min-height: 450px;
+}
+
+footer .container p{
+	font-size: small;
+	color: #ccc;
+}
